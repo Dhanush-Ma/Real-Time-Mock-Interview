@@ -1,0 +1,25 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the difference between list and tuple in Python?"
+    },
+    {
+      "id": 2,
+      "question": "Explain the concept of list comprehension in Python."
+    },
+    {
+      "id": 3,
+      "question": "What are the benefits of using Python?"
+    },
+    {
+      "id": 4,
+      "question": "What is the purpose of using `if __name__ == '__main__'` in Python?"
+    },
+    {
+      "id": 5,
+      "question": "How does Python handle memory management?"
+    }
+  ],
+  "total": 5
+}
